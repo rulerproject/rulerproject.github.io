@@ -1,2 +1,5 @@
 theme: jekyll-theme-midnight
 title: "RULER Project"
+
+github:
+  is_project_page: false
